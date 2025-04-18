@@ -1,1 +1,2 @@
 C++ Flight Management System.
+Developed a Flight Management System using C++ to handle flight schedules, bookings, and passenger information. Integrated features like flight searching, ticket booking, and cancellation. Utilized object-oriented programming (OOP) principles for managing flight details, customer data, and transactions. Included exception handling to ensure robustness in the booking process.
